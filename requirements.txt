@@ -3,7 +3,5 @@ pandas
 numpy==1.26.4
 scikit-learn
 matplotlib
-seaborn
 plotly
-shap==0.44.1
-protobuf==4.25.3
+joblib
